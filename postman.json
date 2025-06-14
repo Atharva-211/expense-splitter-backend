@@ -412,7 +412,7 @@
         "exec": [
           "// Set base URL if not already set",
           "if (!pm.environment.get('base_url')) {",
-          "    pm.environment.set('base_url', 'https://your-app-name.railway.app');",
+          "    pm.environment.set('base_url', 'https://expense-splitter-backend.railway.app');",
           "}"
         ]
       }
@@ -421,7 +421,7 @@
   "variable": [
     {
       "key": "base_url",
-      "value": "https://your-app-name.railway.app",
+      "value": "https://expense-splitter-backend.railway.app",
       "description": "Base URL of the deployed API. Update this with your actual deployment URL."
     },
     {
