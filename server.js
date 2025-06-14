@@ -191,6 +191,11 @@ app.get('/', (req, res) => {
   });
 });
 
+app.get('/test', (req, res) => {
+  res.send("Test route working");
+});
+
+
 // Get all expenses
 app.get('/expenses', async (req, res) => {
   try {
