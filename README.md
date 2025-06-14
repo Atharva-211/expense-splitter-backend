@@ -10,7 +10,7 @@ A backend system for splitting expenses among groups of people with automatic se
 https://expense-splitter-backend-production.up.railway.app
 
 **Here’s the collection with test data:** 
-👉 [Postman Gist]([https://gist.github.com/your-gist-link](https://gist.github.com/Atharva-211/b909d07bb48c1ffd960feaf2bfaaba58))
+👉 [Postman Gist](https://gist.github.com/your-gist-link](https://gist.github.com/Atharva-211/b909d07bb48c1ffd960feaf2bfaaba58)
 
 ---
 
